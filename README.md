@@ -1,4 +1,5 @@
 # **Uber Drives Data Analysis**
+
 ## **Project Overview**
 Uber Technologies, Inc. is a global ride-hailing company providing transportation and logistics services.
 This project analyzes Uber trip data to understand travel behavior, peak usage times, trip purposes, and location-based demand, helping derive actionable business insights.
@@ -90,5 +91,6 @@ This project demonstrates an end-to-end data analysis workflow, transforming raw
 The findings can help improve operational efficiency, customer experience, and strategic decision-making.
 
 ----------
-Tableau Dashboard Link :- 
+Tableau Dashboard Link :- https://public.tableau.com/app/profile/jiyansh.garg/viz/UberDriveDataAnalysis/Dashboard1
 ----------
+<img width="1919" height="987" alt="Screenshot 2026-01-19 232236" src="https://github.com/user-attachments/assets/2f7dab57-bcb7-4970-9d82-03ee2dfd015d" />
